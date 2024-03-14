@@ -12,7 +12,5 @@ public class Estoque {
     private String prateleira;
     private String secao;
     private String localizacaoEstoque;
-//    private Map<Produto, Integer> produtos;
-//    private List<Movimentacao> movimentacoes;
-    //private int idLoja;
+    private List<Produto> produtos;
 }

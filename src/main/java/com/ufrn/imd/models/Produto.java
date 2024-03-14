@@ -6,5 +6,5 @@ public class Produto {
     private String descricaoProduto;
     private double precoCusto;
     private double precoVenda;
-    private int idUsuario;
+    private Usuario usuario;
 }
